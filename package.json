@@ -1,0 +1,29 @@
+{
+  "name": "bn-importer-xml",
+  "version": "0.0.4",
+  "author": "Jared Camins-Esakov <jcamins@cpbibliography.com>",
+  "description": "Importers for Biblionarrator",
+  "contributors": [
+    {
+      "name": "Jared Camins-Esakov",
+      "email": "jcamins@cpbibliography.com"
+    }
+  ],
+  "bin": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biblionarrator/bn-importers.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "q": "0.9.x",
+    "xml-stream": "~0.4.3"
+  },
+  "bundledDependencies": [],
+  "license": "AGPLv3",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
+
