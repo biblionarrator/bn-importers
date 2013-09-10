@@ -18,7 +18,8 @@
   "keywords": [],
   "dependencies": {
     "q": "0.9.x",
-    "xml-stream": "~0.4.3"
+    "xml-stream": "~0.4.3",
+    "jsonparse": "0.0.5"
   },
   "bundledDependencies": [],
   "license": "AGPLv3",
@@ -26,4 +27,3 @@
     "node": ">=0.8"
   }
 }
-
