@@ -1,5 +1,5 @@
 {
-  "name": "bn-importer-xml",
+  "name": "bn-importers",
   "version": "0.0.4",
   "author": "Jared Camins-Esakov <jcamins@cpbibliography.com>",
   "description": "Importers for Biblionarrator",
